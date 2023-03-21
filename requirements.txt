@@ -1,0 +1,5 @@
+pytest==7.2.1
+selene==2.0.0b17
+PyPDF2
+xlrd
+openpyxl
